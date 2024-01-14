@@ -5,7 +5,7 @@ Data catalog, data lineage, data flow, and data pipeline are all components of a
     A data catalog serves as a centralized repository for metadata and information about various data assets in an organization.
 
 2. Data Lineage:
-    Data lineage provides a <b>visual representation<b/> of the path and transformations that data takes from its origin to its final destination.
+    Data lineage provides a <b>visual representation</b> of the path and transformations that data takes from its origin to its final destination.
 
 3. Data Flow:
      Data flow refers to the movement and transformation of data within a system or between systems.
